@@ -1,5 +1,5 @@
 
-**规范汉字** is a free Chinese character dictionary app for browsing and searching standard characters.
+**口袋字典** is a free Chinese character dictionary app for browsing and searching standard characters.
 
 You can search by Hanzi, Pinyin, or Yunmu, switch different result views, check character details (including traditional and variant mappings), and use photo/library text recognition to continue lookup quickly.
 
