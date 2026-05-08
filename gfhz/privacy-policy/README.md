@@ -2,7 +2,7 @@
 
 ### Scope
 
-This Privacy Policy applies to 规范汉字 (the "App").
+This Privacy Policy applies to 口袋字典 (the "App").
 
 The App is free to use and does not offer paid subscriptions or in-app purchases.
 
